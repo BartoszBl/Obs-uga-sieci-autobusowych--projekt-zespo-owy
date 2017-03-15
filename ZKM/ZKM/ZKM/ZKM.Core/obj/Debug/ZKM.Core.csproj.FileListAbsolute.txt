@@ -1,0 +1,22 @@
+C:\Users\Bartosz\Desktop\Aplikacja\17.04\WebApplication1\ZKM.Core\bin\Debug\ZKM.Core.dll
+C:\Users\Bartosz\Desktop\Aplikacja\17.04\WebApplication1\ZKM.Core\bin\Debug\ZKM.Core.pdb
+C:\Users\Bartosz\Desktop\Aplikacja\17.04\WebApplication1\ZKM.Core\obj\Debug\ZKM.Core.dll
+C:\Users\Bartosz\Desktop\Aplikacja\17.04\WebApplication1\ZKM.Core\obj\Debug\ZKM.Core.pdb
+F:\Projekty\WebApplication1\ZKM.Core\bin\Debug\ZKM.Core.dll
+F:\Projekty\WebApplication1\ZKM.Core\bin\Debug\ZKM.Core.pdb
+F:\Projekty\WebApplication1\ZKM.Core\obj\Debug\ZKM.Core.dll
+F:\Projekty\WebApplication1\ZKM.Core\obj\Debug\ZKM.Core.pdb
+C:\Users\Osciik\Desktop\ZKM\ZKM.Core\bin\Debug\ZKM.Core.dll
+C:\Users\Osciik\Desktop\ZKM\ZKM.Core\bin\Debug\ZKM.Core.pdb
+C:\Users\Osciik\Desktop\ZKM\ZKM.Core\obj\Debug\ZKM.Core.csprojResolveAssemblyReference.cache
+C:\Users\Osciik\Desktop\ZKM\ZKM.Core\obj\Debug\ZKM.Core.dll
+C:\Users\Osciik\Desktop\ZKM\ZKM.Core\obj\Debug\ZKM.Core.pdb
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.Core\bin\Debug\ZKM.Core.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.Core\bin\Debug\ZKM.Core.pdb
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.Core\obj\Debug\ZKM.Core.csprojResolveAssemblyReference.cache
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.Core\obj\Debug\ZKM.Core.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.Core\obj\Debug\ZKM.Core.pdb
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.Core\bin\Debug\ZKM.Core.dll
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.Core\bin\Debug\ZKM.Core.pdb
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.Core\obj\Debug\ZKM.Core.dll
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.Core\obj\Debug\ZKM.Core.pdb

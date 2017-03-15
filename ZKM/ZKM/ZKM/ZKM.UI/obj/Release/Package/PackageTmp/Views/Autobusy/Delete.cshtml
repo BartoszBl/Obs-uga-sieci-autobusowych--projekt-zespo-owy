@@ -1,0 +1,88 @@
+﻿@model ZKM.UI.Models.Autobus
+
+@{
+    ViewBag.Title = "Usuń autobus";
+}
+
+<h2>Usuń autobus</h2>
+
+<h3>Czy na pewno chcesz usunąć?</h3>
+<div>
+    <h4>Autobus</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Marka)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Marka)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Rok_Produkcji)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Rok_Produkcji)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Ilosc_miejsc)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Ilosc_miejsc)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Klimatyzacja)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Klimatyzacja)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Czy_Aktywny)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Czy_Aktywny)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Czy_W_naprawie)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Czy_W_naprawie)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Czy_usuniety)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Czy_usuniety)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Czy_zezlomowany)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Czy_zezlomowany)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Wróć", "Index")
+        </div>
+    }
+</div>

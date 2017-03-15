@@ -1,0 +1,67 @@
+﻿@model ZKM.UI.Models.Kontrola
+
+@{
+    ViewBag.Title = "Szczegóły";
+}
+
+<h2>Szczegóły</h2>
+
+<div>
+    <h4>Kontrola</h4>
+    <hr />
+    <dl class="dl-horizontal">
+      
+        <dd>
+            @*@Html.DisplayFor(model => model.Linia_autobusu)*@
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Nazwa_przystanku)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nazwa_przystanku)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Data)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Data)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Godzina)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Godzina)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Ilosc_skasowanych_biletow)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Ilosc_skasowanych_biletow)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Ilosc_wystawionych_mandatow)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Ilosc_wystawionych_mandatow)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Opis_zdarzenia)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Opis_zdarzenia)
+        </dd>
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edytuj", "Edit", new { id = Model.KontrolaID }) |
+    @Html.ActionLink("Wróć", "Index")
+</p>

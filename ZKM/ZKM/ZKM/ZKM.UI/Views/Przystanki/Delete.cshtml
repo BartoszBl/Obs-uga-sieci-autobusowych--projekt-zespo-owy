@@ -1,0 +1,88 @@
+﻿@model ZKM.UI.Models.Przystanek
+
+@{
+    ViewBag.Title = "Usuń przystanek";
+}
+
+<h2>Usuń przystanek</h2>
+
+<h3>Czy na pewno chcesz usunąć?</h3>
+<div>
+    <h4>Przystanek</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Nazwa)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nazwa)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Szerokosc_Geograficzna)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Szerokosc_Geograficzna)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Dlugosc_Geograficzna)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Dlugosc_Geograficzna)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Czy_Aktywny)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Czy_Aktywny)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Czy_Przeniesiony)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Czy_Przeniesiony)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Czy_jest_kiosk)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Czy_jest_kiosk)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Czy_jest_tablica)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Czy_jest_tablica)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Czy_Usuniety)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Czy_Usuniety)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Usuń" class="btn btn-default" /> |
+            @Html.ActionLink("Wróć", "Index")
+        </div>
+    }
+</div>

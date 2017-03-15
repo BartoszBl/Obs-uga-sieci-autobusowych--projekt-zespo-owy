@@ -1,0 +1,63 @@
+﻿@model IEnumerable<ZKM.UI.Models.Kontrola>
+
+@{
+    ViewBag.Title = "Kontrole";
+}
+
+<h2>Kontrole</h2>
+
+<p>
+    @Html.ActionLink("Dodaj kontrolę", "Create", new { @class = "btn btn-primary" })
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Nazwa_przystanku)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Data)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Godzina)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Ilosc_skasowanych_biletow)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Ilosc_wystawionych_mandatow)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Opis_zdarzenia)
+        </th>
+        <th></th><th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nazwa_przystanku)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Data)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Godzina)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Ilosc_skasowanych_biletow)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Ilosc_wystawionych_mandatow)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Opis_zdarzenia)
+        </td>
+        <td>
+            @Html.ActionLink("Edytuj", "Edit", new { id = item.KontrolaID }, new { @class = "btn btn-primary" })
+            @Html.ActionLink("Szczegóły", "Details", new { id = item.KontrolaID }, new { @class = "btn btn-info" })
+            @Html.ActionLink("Usuń", "Delete", new { id = item.KontrolaID }, new { @class = "btn btn-danger" })
+        </td>
+    </tr>
+}
+
+</table>
