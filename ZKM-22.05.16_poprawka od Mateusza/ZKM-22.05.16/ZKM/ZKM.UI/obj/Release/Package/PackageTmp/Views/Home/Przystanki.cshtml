@@ -1,0 +1,54 @@
+﻿@{ 
+    ViewBag.Title = "Przystanki";
+}
+<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>
+
+<head>
+    <title>Google Maps JavaScript API v3 - Twoja pierwsza mapa</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <script type="text/javascript"
+            src="https://maps.googleapis.com/maps/api/js?sensor=false">
+    </script>
+    <script type="text/javascript">
+            var map;
+            var lat = 53.77735400090768;
+            var lng = 20.47660400390625;
+            var zoom = 13;
+
+            function initialize() {
+                var myLatlng = new google.maps.LatLng(lat,lng);
+                var myOptions = {
+                    zoom: zoom,
+                    center: myLatlng,
+                    mapTypeId: google.maps.MapTypeId.ROADMAP
+                }
+                var map = new google.maps.Map(document.getElementById("moja-mapa"), myOptions);
+
+
+                var markers = [
+                    ['Plac Roosevelta', 53.772717,  20.474836],
+                    ['Dworzec autobusowy', 53.784872, 20.498527],
+                    ['Stary Dwór', 53.744828, 20.455407],
+
+                //    ['Kraków', 50.0646501, 19.9449799]
+                ];
+
+                for (var i = 0; i < markers.length; i++) {
+                    var draftMarker = markers[i];
+                    var myLatLng = new google.maps.LatLng(draftMarker[1], draftMarker[2]);
+                    var marker = new google.maps.Marker({
+                        position: myLatLng,
+                        map: map,
+                        title: draftMarker[0]
+                    });
+                }
+        }
+    </script>
+</head>
+<body onLoad="initialize()">
+    <div id="moja-mapa" style="width: 520px; height: 400px;">
+        <!-- Miejsce wyświetlenia mapy -->
+    </div>
+</body>
+

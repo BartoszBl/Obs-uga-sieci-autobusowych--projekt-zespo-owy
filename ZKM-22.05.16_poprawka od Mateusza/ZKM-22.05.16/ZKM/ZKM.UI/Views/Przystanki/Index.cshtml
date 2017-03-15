@@ -1,0 +1,96 @@
+﻿@using ZKM.Core.Enums
+@model IEnumerable<ZKM.UI.Models.Przystanek>
+
+@{
+    ViewBag.Title = "Przystanki";
+}
+
+<h2>Przystanki</h2>
+
+
+
+@{
+    if (User.IsInRole(UserRoles.Manager))
+    {
+        <p>
+            @Html.ActionLink("Dodaj przystanek", "Create", new { @class = "btn btn-primary" })
+        </p>
+    }
+}
+<table class="table">
+    <tr class="active">
+        <th>
+            @Html.DisplayNameFor(model => model.Nazwa)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Szerokosc_Geograficzna)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Dlugosc_Geograficzna)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Czy_Aktywny)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Czy_Przeniesiony)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Czy_jest_kiosk)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Czy_jest_tablica)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Czy_Usuniety)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nazwa)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Szerokosc_Geograficzna)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Dlugosc_Geograficzna)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Czy_Aktywny)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Czy_Przeniesiony)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Czy_jest_kiosk)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Czy_jest_tablica)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Czy_Usuniety)
+            </td>
+            <td>
+                @{
+                    if (User.IsInRole(UserRoles.Manager))
+                    {
+                        @Html.ActionLink("Edytuj", "Edit", new { id = item.PrzystanekID }, new { @class = "btn btn-primary" })
+                    }
+                }
+
+                @Html.ActionLink("Szczegóły", "Details", new { id = item.PrzystanekID }, new { @class = "btn btn-info" })
+
+                @{
+                    if (User.IsInRole(UserRoles.Manager))
+                    {
+                        @Html.ActionLink("Usuń", "Delete", new { id = item.PrzystanekID }, new { @class = "btn btn-danger" })
+                    }
+                }
+            </td>
+        </tr>
+                    }
+
+</table>

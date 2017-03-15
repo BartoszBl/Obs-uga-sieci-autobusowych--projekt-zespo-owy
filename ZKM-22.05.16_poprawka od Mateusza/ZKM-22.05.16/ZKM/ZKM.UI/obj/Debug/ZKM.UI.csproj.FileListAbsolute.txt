@@ -1,0 +1,671 @@
+F:\Projekty\WebApplication1\ZKM.UI\bin\ApplicationInsights.config
+F:\Projekty\WebApplication1\ZKM.UI\bin\roslyn\csc.exe
+F:\Projekty\WebApplication1\ZKM.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Projekty\WebApplication1\ZKM.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Projekty\WebApplication1\ZKM.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Projekty\WebApplication1\ZKM.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Projekty\WebApplication1\ZKM.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Projekty\WebApplication1\ZKM.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Projekty\WebApplication1\ZKM.UI\bin\roslyn\System.Collections.Immutable.dll
+F:\Projekty\WebApplication1\ZKM.UI\bin\roslyn\System.Reflection.Metadata.dll
+F:\Projekty\WebApplication1\ZKM.UI\bin\roslyn\vbc.exe
+F:\Projekty\WebApplication1\ZKM.UI\bin\roslyn\VBCSCompiler.exe
+F:\Projekty\WebApplication1\ZKM.UI\bin\roslyn\VBCSCompiler.exe.config
+F:\Projekty\WebApplication1\ZKM.UI\bin\ZKM.UI.dll.config
+F:\Projekty\WebApplication1\ZKM.UI\bin\ZKM.UI.dll
+F:\Projekty\WebApplication1\ZKM.UI\bin\ZKM.UI.pdb
+F:\Projekty\WebApplication1\ZKM.UI\bin\Antlr3.Runtime.dll
+F:\Projekty\WebApplication1\ZKM.UI\bin\EntityFramework.dll
+F:\Projekty\WebApplication1\ZKM.UI\bin\EntityFramework.SqlServer.dll
+F:\Projekty\WebApplication1\ZKM.UI\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Projekty\WebApplication1\ZKM.UI\bin\Microsoft.AI.DependencyCollector.dll
+F:\Projekty\WebApplication1\ZKM.UI\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Projekty\WebApplication1\ZKM.UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Projekty\WebApplication1\ZKM.UI\bin\Microsoft.AI.Web.dll
+F:\Projekty\WebApplication1\ZKM.UI\bin\Microsoft.AI.WindowsServer.dll
+F:\Projekty\WebApplication1\ZKM.UI\bin\Microsoft.ApplicationInsights.dll
+F:\Projekty\WebApplication1\ZKM.UI\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Projekty\WebApplication1\ZKM.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Projekty\WebApplication1\ZKM.UI\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Projekty\WebApplication1\ZKM.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Projekty\WebApplication1\ZKM.UI\bin\Microsoft.Owin.dll
+F:\Projekty\WebApplication1\ZKM.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Projekty\WebApplication1\ZKM.UI\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Projekty\WebApplication1\ZKM.UI\bin\Microsoft.Owin.Security.dll
+F:\Projekty\WebApplication1\ZKM.UI\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Projekty\WebApplication1\ZKM.UI\bin\Microsoft.Owin.Security.Google.dll
+F:\Projekty\WebApplication1\ZKM.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Projekty\WebApplication1\ZKM.UI\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Projekty\WebApplication1\ZKM.UI\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Projekty\WebApplication1\ZKM.UI\bin\Microsoft.Web.Infrastructure.dll
+F:\Projekty\WebApplication1\ZKM.UI\bin\Newtonsoft.Json.dll
+F:\Projekty\WebApplication1\ZKM.UI\bin\Owin.dll
+F:\Projekty\WebApplication1\ZKM.UI\bin\System.Web.Helpers.dll
+F:\Projekty\WebApplication1\ZKM.UI\bin\System.Web.Mvc.dll
+F:\Projekty\WebApplication1\ZKM.UI\bin\System.Web.Optimization.dll
+F:\Projekty\WebApplication1\ZKM.UI\bin\System.Web.Razor.dll
+F:\Projekty\WebApplication1\ZKM.UI\bin\System.Web.WebPages.Deployment.dll
+F:\Projekty\WebApplication1\ZKM.UI\bin\System.Web.WebPages.dll
+F:\Projekty\WebApplication1\ZKM.UI\bin\System.Web.WebPages.Razor.dll
+F:\Projekty\WebApplication1\ZKM.UI\bin\WebGrease.dll
+F:\Projekty\WebApplication1\ZKM.UI\bin\ZKM.Core.dll
+F:\Projekty\WebApplication1\ZKM.UI\bin\ZKM.Core.pdb
+F:\Projekty\WebApplication1\ZKM.UI\bin\Microsoft.AI.DependencyCollector.xml
+F:\Projekty\WebApplication1\ZKM.UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Projekty\WebApplication1\ZKM.UI\bin\Microsoft.AI.Web.xml
+F:\Projekty\WebApplication1\ZKM.UI\bin\Microsoft.AI.WindowsServer.xml
+F:\Projekty\WebApplication1\ZKM.UI\bin\Microsoft.ApplicationInsights.xml
+F:\Projekty\WebApplication1\ZKM.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Projekty\WebApplication1\ZKM.UI\bin\System.Web.Helpers.xml
+F:\Projekty\WebApplication1\ZKM.UI\bin\System.Web.Mvc.xml
+F:\Projekty\WebApplication1\ZKM.UI\bin\System.Web.Optimization.xml
+F:\Projekty\WebApplication1\ZKM.UI\bin\System.Web.Razor.xml
+F:\Projekty\WebApplication1\ZKM.UI\bin\System.Web.WebPages.xml
+F:\Projekty\WebApplication1\ZKM.UI\bin\System.Web.WebPages.Deployment.xml
+F:\Projekty\WebApplication1\ZKM.UI\bin\System.Web.WebPages.Razor.xml
+F:\Projekty\WebApplication1\ZKM.UI\bin\Antlr3.Runtime.pdb
+F:\Projekty\WebApplication1\ZKM.UI\bin\Newtonsoft.Json.xml
+F:\Projekty\WebApplication1\ZKM.UI\bin\EntityFramework.xml
+F:\Projekty\WebApplication1\ZKM.UI\bin\EntityFramework.SqlServer.xml
+F:\Projekty\WebApplication1\ZKM.UI\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Projekty\WebApplication1\ZKM.UI\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Projekty\WebApplication1\ZKM.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Projekty\WebApplication1\ZKM.UI\bin\Microsoft.Owin.xml
+F:\Projekty\WebApplication1\ZKM.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Projekty\WebApplication1\ZKM.UI\bin\Microsoft.Owin.Security.xml
+F:\Projekty\WebApplication1\ZKM.UI\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Projekty\WebApplication1\ZKM.UI\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Projekty\WebApplication1\ZKM.UI\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Projekty\WebApplication1\ZKM.UI\bin\Microsoft.Owin.Security.Google.xml
+F:\Projekty\WebApplication1\ZKM.UI\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Projekty\WebApplication1\ZKM.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Projekty\WebApplication1\ZKM.UI\obj\Debug\ZKM.UI.csprojResolveAssemblyReference.cache
+F:\Projekty\WebApplication1\ZKM.UI\obj\Debug\ZKM.UI.dll
+F:\Projekty\WebApplication1\ZKM.UI\obj\Debug\ZKM.UI.pdb
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\ApplicationInsights.config
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\roslyn\csc.exe
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\roslyn\vbc.exe
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\ZKM.UI.dll.config
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\ZKM.UI.dll
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\ZKM.UI.pdb
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\Antlr3.Runtime.dll
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\EntityFramework.dll
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\Microsoft.AI.Web.dll
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\Microsoft.Owin.dll
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.dll
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\Newtonsoft.Json.dll
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\Owin.dll
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\System.Web.Helpers.dll
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\System.Web.Mvc.dll
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\System.Web.Optimization.dll
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\System.Web.Razor.dll
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\System.Web.WebPages.dll
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\WebGrease.dll
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\ZKM.Core.dll
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\ZKM.Core.pdb
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\Microsoft.AI.Web.xml
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\System.Web.Helpers.xml
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\System.Web.Mvc.xml
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\System.Web.Optimization.xml
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\System.Web.Razor.xml
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\System.Web.WebPages.xml
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\Antlr3.Runtime.pdb
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\Newtonsoft.Json.xml
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\EntityFramework.xml
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\Microsoft.Owin.xml
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.xml
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\obj\Debug\ZKM.UI.csprojResolveAssemblyReference.cache
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\obj\Debug\ZKM.UI.dll
+C:\Users\Osciik\Desktop\ZKM\ZKM.UI\obj\Debug\ZKM.UI.pdb
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\ApplicationInsights.config
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\roslyn\csc.exe
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\roslyn\vbc.exe
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\ZKM.UI.dll.config
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\ZKM.UI.dll
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\ZKM.UI.pdb
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\Antlr3.Runtime.dll
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\EntityFramework.dll
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\Microsoft.AI.Web.dll
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\Microsoft.Owin.dll
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.dll
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\Newtonsoft.Json.dll
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\Owin.dll
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\System.Web.Helpers.dll
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\System.Web.Mvc.dll
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\System.Web.Optimization.dll
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\System.Web.Razor.dll
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\System.Web.WebPages.dll
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\WebGrease.dll
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\ZKM.Core.dll
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\ZKM.Core.pdb
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\Microsoft.AI.Web.xml
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\System.Web.Helpers.xml
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\System.Web.Mvc.xml
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\System.Web.Optimization.xml
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\System.Web.Razor.xml
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\System.Web.WebPages.xml
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\Antlr3.Runtime.pdb
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\Newtonsoft.Json.xml
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\EntityFramework.xml
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\Microsoft.Owin.xml
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.xml
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\obj\Debug\ZKM.UI.csprojResolveAssemblyReference.cache
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\obj\Debug\ZKM.UI.dll
+C:\Users\Ja\Desktop\ZKM\ZKM.UI\obj\Debug\ZKM.UI.pdb
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\ApplicationInsights.config
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\roslyn\csc.exe
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\roslyn\vbc.exe
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\ZKM.UI.dll.config
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\ZKM.UI.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\ZKM.UI.pdb
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\Antlr3.Runtime.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\EntityFramework.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\Microsoft.AI.Web.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\Microsoft.Owin.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\Newtonsoft.Json.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\Owin.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\System.Web.Helpers.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\System.Web.Mvc.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\System.Web.Optimization.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\System.Web.Razor.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\System.Web.WebPages.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\WebGrease.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\ZKM.Core.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\ZKM.Core.pdb
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\Microsoft.AI.Web.xml
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\System.Web.Helpers.xml
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\System.Web.Mvc.xml
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\System.Web.Optimization.xml
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\System.Web.Razor.xml
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\System.Web.WebPages.xml
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\Antlr3.Runtime.pdb
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\Newtonsoft.Json.xml
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\EntityFramework.xml
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\Microsoft.Owin.xml
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.xml
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\obj\Debug\ZKM.UI.csprojResolveAssemblyReference.cache
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\obj\Debug\ZKM.UI.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.UI\obj\Debug\ZKM.UI.pdb
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\ApplicationInsights.config
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\roslyn\csc.exe
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\roslyn\vbc.exe
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\ZKM.UI.dll.config
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\ZKM.UI.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\ZKM.UI.pdb
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\Antlr3.Runtime.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\EntityFramework.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\Microsoft.AI.Web.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\Microsoft.Owin.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\Newtonsoft.Json.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\Owin.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\System.Web.Helpers.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\System.Web.Mvc.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\System.Web.Optimization.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\System.Web.Razor.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\System.Web.WebPages.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\WebGrease.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\ZKM.Core.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\ZKM.Core.pdb
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\Microsoft.AI.Web.xml
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\System.Web.Helpers.xml
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\System.Web.Mvc.xml
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\System.Web.Optimization.xml
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\System.Web.Razor.xml
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\System.Web.WebPages.xml
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\Antlr3.Runtime.pdb
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\Newtonsoft.Json.xml
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\EntityFramework.xml
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\Microsoft.Owin.xml
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.xml
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\obj\Debug\ZKM.UI.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM\ZKM.UI\obj\Debug\ZKM.UI.pdb
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\ApplicationInsights.config
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\roslyn\csc.exe
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\roslyn\vbc.exe
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\ZKM.UI.dll.config
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\ZKM.UI.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\ZKM.UI.pdb
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\Antlr3.Runtime.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\EntityFramework.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.AI.Web.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.Owin.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\Newtonsoft.Json.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\Owin.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\System.Web.Helpers.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\System.Web.Mvc.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\System.Web.Optimization.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\System.Web.Razor.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\System.Web.WebPages.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\WebGrease.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\ZKM.Core.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\ZKM.Core.pdb
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.AI.Web.xml
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\System.Web.Helpers.xml
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\System.Web.Mvc.xml
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\System.Web.Optimization.xml
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\System.Web.Razor.xml
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\System.Web.WebPages.xml
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\Antlr3.Runtime.pdb
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\Newtonsoft.Json.xml
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\EntityFramework.xml
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.Owin.xml
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.xml
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\obj\Debug\ZKM.UI.csprojResolveAssemblyReference.cache
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\obj\Debug\ZKM.UI.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16\ZKM\ZKM.UI\obj\Debug\ZKM.UI.pdb
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\ApplicationInsights.config
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\roslyn\csc.exe
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\roslyn\vbc.exe
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\ZKM.UI.dll.config
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\ZKM.UI.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\ZKM.UI.pdb
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\Antlr3.Runtime.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\EntityFramework.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.AI.Web.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.Owin.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\Newtonsoft.Json.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\Owin.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\System.Web.Helpers.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\System.Web.Mvc.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\System.Web.Optimization.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\System.Web.Razor.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\System.Web.WebPages.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\WebGrease.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\ZKM.Core.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\ZKM.Core.pdb
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.AI.Web.xml
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\System.Web.Helpers.xml
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\System.Web.Mvc.xml
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\System.Web.Optimization.xml
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\System.Web.Razor.xml
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\System.Web.WebPages.xml
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\Antlr3.Runtime.pdb
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\Newtonsoft.Json.xml
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\EntityFramework.xml
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.Owin.xml
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.xml
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\obj\Debug\ZKM.UI.csprojResolveAssemblyReference.cache
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\obj\Debug\ZKM.UI.dll
+C:\Users\Ja\Desktop\ZKM-17.05.16(2)\ZKM-17.05.16\ZKM\ZKM.UI\obj\Debug\ZKM.UI.pdb
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\ApplicationInsights.config
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\roslyn\csc.exe
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\roslyn\vbc.exe
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\ZKM.UI.dll.config
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\ZKM.UI.dll
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\ZKM.UI.pdb
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\Antlr3.Runtime.dll
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\EntityFramework.dll
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\Microsoft.AI.Web.dll
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\Microsoft.Owin.dll
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.dll
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\Newtonsoft.Json.dll
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\Owin.dll
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\System.Web.Helpers.dll
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\System.Web.Mvc.dll
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\System.Web.Optimization.dll
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\System.Web.Razor.dll
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\System.Web.WebPages.dll
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\WebGrease.dll
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\ZKM.Core.dll
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\ZKM.Core.pdb
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\Microsoft.AI.Web.xml
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\System.Web.Helpers.xml
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\System.Web.Mvc.xml
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\System.Web.Optimization.xml
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\System.Web.Razor.xml
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\System.Web.WebPages.xml
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\Antlr3.Runtime.pdb
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\Newtonsoft.Json.xml
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\EntityFramework.xml
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\Microsoft.Owin.xml
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.xml
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\obj\Debug\ZKM.UI.csprojResolveAssemblyReference.cache
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\obj\Debug\ZKM.UI.dll
+C:\Users\Naykes\Desktop\ZKM-22.05.16\ZKM\ZKM.UI\obj\Debug\ZKM.UI.pdb

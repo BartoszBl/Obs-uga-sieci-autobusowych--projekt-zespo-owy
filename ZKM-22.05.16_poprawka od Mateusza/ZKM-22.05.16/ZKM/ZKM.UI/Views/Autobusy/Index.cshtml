@@ -1,0 +1,108 @@
+﻿@using ZKM.Core.Enums
+@model IEnumerable<ZKM.UI.Models.Autobus>
+
+@{
+    ViewBag.Title = "Wykaz";
+}
+
+<h2>@ViewBag.Title</h2>
+
+@{
+    if (User.IsInRole(UserRoles.Manager))
+    {
+<p>
+    @Html.ActionLink("Dodaj autobus", "Create", new { @class = "btn btn-primary" })
+</p>
+        } 
+    }
+<p>
+    @{
+        if (User.IsInRole(UserRoles.Manager))
+        {
+            Html.ActionLink("Dodaj nowy", "Create", new { @type = "button" }, new { @class = "btn btn-success" });
+        }
+    }
+</p>
+<table class="table">
+    <tr class="active">
+        <th>
+            @Html.DisplayNameFor(model => model.Numer_Rejestracyjny)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Marka)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Rok_Produkcji)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Ilosc_miejsc)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Klimatyzacja)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Czy_Aktywny)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Czy_W_naprawie)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Czy_usuniety)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Czy_zezlomowany)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Numer_Rejestracyjny)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Marka)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Rok_Produkcji)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ilosc_miejsc)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Klimatyzacja)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Czy_Aktywny)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.Czy_W_naprawie)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.Czy_usuniety)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.Czy_zezlomowany)
+            </td>
+            <td>
+                @{
+                    if (User.IsInRole(UserRoles.Manager))
+                    {
+                        @Html.ActionLink("Edytuj", "Edit", new { id = item.AutobusID }, new { @class = "btn btn-primary" })
+                    }
+                }
+
+                @Html.ActionLink("Szczegóły", "Details", new { id = item.AutobusID }, new { @class = "btn btn-info" })
+
+                @{
+                    if (User.IsInRole(UserRoles.Manager))
+                    {
+                        @Html.ActionLink("Usuń", "Delete", new { id = item.AutobusID }, new { @class = "btn btn-danger" })
+                    }
+                }
+            </td>
+        </tr>
+                    }
+
+</table>

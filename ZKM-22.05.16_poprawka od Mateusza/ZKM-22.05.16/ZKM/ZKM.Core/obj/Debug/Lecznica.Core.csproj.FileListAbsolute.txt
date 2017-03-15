@@ -1,0 +1,5 @@
+C:\Users\Bartosz\Desktop\Informatyka 2016-2017\Studia\ZKM-22.05.16_poprawka od Mateusza\ZKM-22.05.16\ZKM\ZKM.Core\bin\Debug\ZKM.Core.dll
+C:\Users\Bartosz\Desktop\Informatyka 2016-2017\Studia\ZKM-22.05.16_poprawka od Mateusza\ZKM-22.05.16\ZKM\ZKM.Core\bin\Debug\ZKM.Core.pdb
+C:\Users\Bartosz\Desktop\Informatyka 2016-2017\Studia\ZKM-22.05.16_poprawka od Mateusza\ZKM-22.05.16\ZKM\ZKM.Core\obj\Debug\Lecznica.Core.csprojResolveAssemblyReference.cache
+C:\Users\Bartosz\Desktop\Informatyka 2016-2017\Studia\ZKM-22.05.16_poprawka od Mateusza\ZKM-22.05.16\ZKM\ZKM.Core\obj\Debug\ZKM.Core.dll
+C:\Users\Bartosz\Desktop\Informatyka 2016-2017\Studia\ZKM-22.05.16_poprawka od Mateusza\ZKM-22.05.16\ZKM\ZKM.Core\obj\Debug\ZKM.Core.pdb

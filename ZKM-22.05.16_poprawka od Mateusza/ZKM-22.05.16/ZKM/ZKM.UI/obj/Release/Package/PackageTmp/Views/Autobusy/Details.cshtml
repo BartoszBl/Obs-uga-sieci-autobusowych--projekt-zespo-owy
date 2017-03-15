@@ -1,0 +1,82 @@
+﻿@model ZKM.UI.Models.Autobus
+
+@{
+    ViewBag.Title = "Szczegóły";
+}
+
+<h2>Szczegóły</h2>
+
+<div>
+    <h4>Autobus</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Marka)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Marka)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Rok_Produkcji)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Rok_Produkcji)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Ilosc_miejsc)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Ilosc_miejsc)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Klimatyzacja)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Klimatyzacja)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Czy_Aktywny)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Czy_Aktywny)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Czy_W_naprawie)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Czy_W_naprawie)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Czy_usuniety)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Czy_usuniety)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Czy_zezlomowany)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Czy_zezlomowany)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edytuj", "Edit", new { id = Model.AutobusID }) |
+    @Html.ActionLink("Wróć", "Index")
+</p>

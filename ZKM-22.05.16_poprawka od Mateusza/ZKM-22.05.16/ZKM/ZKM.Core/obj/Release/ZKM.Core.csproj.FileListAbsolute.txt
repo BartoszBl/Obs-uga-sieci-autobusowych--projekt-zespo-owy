@@ -1,0 +1,4 @@
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.Core\bin\Release\ZKM.Core.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.Core\bin\Release\ZKM.Core.pdb
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.Core\obj\Release\ZKM.Core.dll
+C:\Users\Bartosz\Desktop\aplikacja 8.05\ZKM\ZKM.Core\obj\Release\ZKM.Core.pdb
